@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/iPodInventoryProblem/obj/Debug
+/iPodInventoryProblem/bin/Debug
+/iPodInventoryProblem/.vs/iPodInventoryProblem/v15

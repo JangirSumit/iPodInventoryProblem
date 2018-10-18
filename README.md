@@ -17,11 +17,11 @@ vi) if the order is placed like 120 ipods from brazil then the remaining ipods c
 We have to select best price solution.
 
 Input - 
-<Country> : <iPod required>
+Country : iPod required
 
 
 Output - 
-<Best Price> : <Remaining iPod in Brazil> : <Remaining iPod in Argentina>
+Best Price : Remaining iPod in Brazil : Remaining iPod in Argentina
 
 
 # Examples

@@ -14,6 +14,16 @@ v) the order placed should be either fullfilled completely or nothing
 
 vi) if the order is placed like 120 ipods from brazil then the remaining ipods can be brought from the other inventory i.e.argentina. but here shipping price of 400$ per 10 units is applied. 
 
+We have to select best price solution.
+
+Input - 
+<Country> : <iPod required>
+
+
+Output - 
+<Best Price> : <Remaining iPod in Brazil> : <Remaining iPod in Argentina>
+
+
 # Examples
 
 i) Brazil : 5

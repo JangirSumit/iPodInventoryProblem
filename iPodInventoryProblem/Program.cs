@@ -1,15 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace iPodInventoryProblem
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+
+        public static void Main(string[] args)
         {
+            Console.WriteLine(new CalculateOptimisedPrice().GetOptimisedPrice(Console.ReadLine()));
+
+            Console.ReadLine();
         }
     }
 }

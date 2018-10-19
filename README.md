@@ -8,7 +8,7 @@ ii) ipods at Brazil are sold at 100$/unit and at Argentina they are sold at 50$/
 
 iii) after every order the stock at both brazil and argentina inventories are again back to 100 units.
 
-iv) the no of ipods ordered should be only in multiple of 10.(i.e no of ipods ordered shouldnt be im number like 123 etc. )
+iv) the no of transport ipods ordered should be only in multiple of 10.(i.e no of ipods ordered shouldnt be im number like 123 etc. )
 
 v) the order placed should be either fullfilled completely or nothing
 

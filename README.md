@@ -33,12 +33,10 @@ i) Brazil : 5
 ii) Brazil : 50
 
 4500 : 100 : 50
-(this trick here is u first have to calculate the cost price at both brazil and argentina..and d one which is low should be given..here argentina)
 
 iii) Argentina : 120
 
-7800 : 80 :20
-(this was the case where i made a silly mistake...out of 120 only 100 ipods should be sold according to the price at argentina..while reamaining 20 should be sold at price at brazil which is 100$ + shipping charges (800$))
+7800 : 80 : 0
 
 iv) Argentina : 250
 
